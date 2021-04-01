@@ -9,11 +9,12 @@ The format of the dataset is shown below:
 In the project, the score a newly registered user would give for a book was predicted. 
 
 Sample outputs:
+
 1. 
-![image](https://user-images.githubusercontent.com/61665957/113283396-e95e2680-92f0-11eb-8f04-6909bfe6b440.png)
+![image](https://user-images.githubusercontent.com/61665957/113283663-3e01a180-92f1-11eb-8b8b-808aafbfae82.png)
 
 2.
-![image](https://user-images.githubusercontent.com/61665957/113283140-8a98ad00-92f0-11eb-813d-71f1d62e87cf.png)
+![image](https://user-images.githubusercontent.com/61665957/113283727-55408f00-92f1-11eb-9a52-0c76b9050e97.png)
 
 3.
 ![image](https://user-images.githubusercontent.com/61665957/113283557-190d2e80-92f1-11eb-8b09-ac7f07669cdf.png)
