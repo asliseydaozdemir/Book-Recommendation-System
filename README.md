@@ -9,12 +9,15 @@ The format of the dataset is shown below:
 In the project, the score a newly registered user would give for a book was predicted. 
 
 Sample outputs:
-
+1. 
 ![image](https://user-images.githubusercontent.com/61665957/113283396-e95e2680-92f0-11eb-8f04-6909bfe6b440.png)
 
+2.
 ![image](https://user-images.githubusercontent.com/61665957/113283140-8a98ad00-92f0-11eb-813d-71f1d62e87cf.png)
 
-![image](https://user-images.githubusercontent.com/61665957/113283349-db100a80-92f0-11eb-8716-d24bca314869.png)
+3.
+![image](https://user-images.githubusercontent.com/61665957/113283557-190d2e80-92f1-11eb-8b09-ac7f07669cdf.png)
+
 
 
 
